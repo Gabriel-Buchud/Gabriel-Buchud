@@ -75,13 +75,14 @@
 
 #
 
-<div align="center" style="display: flex; gap: 10px;">
+<div align="center" style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
 
-<a href="https://www.linkedin.com/in/gabriel-buchud/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<a>
-<a href="mailto:gabrielbuchudz@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<a>
+  <a href="https://www.linkedin.com/in/gabriel-buchud/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:gabrielbuchudz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 
 </div>
