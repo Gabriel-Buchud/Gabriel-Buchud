@@ -13,6 +13,8 @@
   Aspiring Full Stack Dev • Data Enthusiast • Code Ninja
 </h3>
 
+#
+
 <div align='center'>
 
 <div align="center">  
@@ -31,18 +33,22 @@
   Sobre Mim
 </h3>
 
+#
+
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Opa! Eu sou o Gabriel, aspirante a Full Stack Developer com uma quedinha por análise de dados. Ainda tô no meio do caminho, mas a jornada tá sendo incrível! 🚀<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Minha meta atual? Me tornar um desenvolvedor júnior full stack e continuar explorando Tudo oque a tecnologia pode oferecer. 🌍<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minha stack favorita inclui tecnologias como JavaScript, TypeScript, Node.Js e Vue, mas tô sempre aberto a aprender o que for preciso pra crescer mais! ⚡<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Eu valorizo muito o respeito e adoro trocar ideias com pessoas novas. Sempre tem algo novo (e um bom papo nunca é demais, né?). 🤝<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Uma das minhas metas é chegar a pleno até 2030 e, quem sabe, até lá ensinar o que aprendi. Vai que eu viro o "Mestre Yoda" do código pra quem compartilha o mesmo sonho? 📚✨
 
+<img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
+
 ## &nbsp;My Stack
 
 <p align="center">
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,vite,tailwind,nodejs,nestjs,postgres,aws,git,vscode&theme=dark/">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,vite,tailwind,nodejs,nestjs,postgres,aws,git,vscode&theme=dark"/>
 </a>
 
 </p>
