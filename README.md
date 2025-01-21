@@ -1,10 +1,9 @@
-<img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
 <h3 align="center">
   Olá Mundo!
 </h3>
 
-#
+<img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
 <a href="https://github.com/Gabriel-Buchud/Gabriel-Buchud">
   <picture>
@@ -21,7 +20,7 @@
 
 #
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 10px;">
+<div align="center" style="display: flex; justify-content: space-between; gap: 5px;">
 
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Buchud&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Gabriel-Buchud's Top Languages">
 
@@ -50,6 +49,8 @@
   Minhas Stacks
 </h3>
 
+#
+
 <p align="center">
 
 <a href="https://skillicons.dev">
@@ -67,3 +68,20 @@
 </div>
 
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
+
+<h3 align="center">
+  Me Encontre Aqui!
+</h3>
+
+#
+
+<div align="center" style="display: flex; gap: 5px; flex-wrap: wrap;">
+
+<a href="https://www.linkedin.com/in/gabriel-buchud/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a>
+<a href="mailto:gabrielbuchudz@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a>
+
+</div>
