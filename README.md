@@ -1,5 +1,11 @@
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
+<h3 align="center">
+  Olá Mundo!
+</h3>
+
+#
+
 <a href="https://github.com/Gabriel-Buchud/Gabriel-Buchud">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Buchud/Gabriel-Buchud/main/dark_mode.svg">
@@ -10,7 +16,7 @@
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
 <h3 align="center">
-  Aspiring Full Stack Dev • Entusiasta de dados • Code Ninja
+  Full Stack Jr • Entusiasta de dados • Code Ninja
 </h3>
 
 #
@@ -52,7 +58,7 @@
 
 </p>
 
-<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+<div align="center" style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript Badge" style="height: 15px;">
   <img src="https://img.shields.io/badge/Learning-Full%20Stack-blue?style=flat&logo=web&logoColor=white" alt="Full Stack Badge" style="height: 15px;">
   <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" style="height: 15px;">
