@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/xyz.png" width="100%" height="8px"/>
+<img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
 <a href="https://github.com/Gabriel-Buchud/Gabriel-Buchud">
   <picture>
@@ -7,7 +7,7 @@
   </picture>
 </a>
 
-<img src="https://i.imgur.com/xyz.png" width="100%" height="8px"/>
+<img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
 <h3 align="center">
   Aspiring Full Stack Dev • Data Enthusiast • Code Ninja
@@ -25,7 +25,7 @@
 
 </div>
 
-<img src="https://i.imgur.com/xyz.png" width="100%" height="8px"/>
+<img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
 <p><strong>Sobre mim</strong></p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Mão acenando" width="25" height="25" /> Opa! Eu sou o Gabriel, aspirante a Full Stack Developer com uma quedinha por análise de dados. Ainda tô no meio do caminho, mas a jornada tá sendo incrível! 🚀<br />
@@ -36,15 +36,23 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,vite,tailwind,nodejs,nestjs,postgres,aws,git,vscode&theme=dark/>
+<p align="center">
 
-<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
-<img src="https://img.shields.io/badge/Learning-Full%20Stack-blue?style=for-the-badge&logo=web&logoColor=white" alt="Full Stack Badge">
-<img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge">
-<img src="https://img.shields.io/badge/Version-Control-orange?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-<img src="https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,vite,tailwind,nodejs,nestjs,postgres,aws,git,vscode&theme=dark/">
+</a>
+
+</p>
+
+<div style="display: flex; gap: 5px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript Badge" style="height: 15px;">
+  <img src="https://img.shields.io/badge/Learning-Full%20Stack-blue?style=flat&logo=web&logoColor=white" alt="Full Stack Badge" style="height: 15px;">
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" style="height: 15px;">
+  <img src="https://img.shields.io/badge/Version-Control-orange?style=flat&logo=git&logoColor=white" alt="Git Badge" style="height: 15px;">
+  <img src="https://img.shields.io/badge/IDE-VS%20Code-blue?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" style="height: 15px;">
+</div>
 
 
 #
 
-<img src="https://i.imgur.com/xyz.png" width="100%" height="8px"/>
+<img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
