@@ -15,17 +15,14 @@
 
 #
 
-<div align='center'>
+<div align="center" style="display: flex; justify-content: space-between; gap: 10px;">
 
-<div align="center">  
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Buchud&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Gabriel-Buchud's Top Languages">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Buchud&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Gabriel-Buchud's Top Languages">
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Buchud&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Gabriel-Buchud's Stats">
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Buchud&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Gabriel-Buchud's Stats">
 
 </div>
 
-</div>
 
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
@@ -43,7 +40,9 @@
 
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
-## &nbsp;My Stack
+<h3 align="center">
+  Minhas Stacks
+</h3>
 
 <p align="center">
 
@@ -60,8 +59,5 @@
   <img src="https://img.shields.io/badge/Version-Control-orange?style=flat&logo=git&logoColor=white" alt="Git Badge" style="height: 15px;">
   <img src="https://img.shields.io/badge/IDE-VS%20Code-blue?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" style="height: 15px;">
 </div>
-
-
-#
 
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
