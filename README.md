@@ -10,7 +10,7 @@
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
 <h3 align="center">
-  Aspiring Full Stack Dev • Data Enthusiast • Code Ninja
+  Aspiring Full Stack Dev • Entusiasta de dados • Code Ninja
 </h3>
 
 #
@@ -19,9 +19,9 @@
 
 <div align="center">  
 
-<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Buchud&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Gabriel-Buchud's Top Languages">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Buchud&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Gabriel-Buchud's Top Languages">
 
-<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Buchud&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Gabriel-Buchud's Stats">
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Buchud&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Gabriel-Buchud's Stats">
 
 </div>
 
@@ -48,7 +48,7 @@
 <p align="center">
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,vite,tailwind,nodejs,nestjs,postgres,aws,git,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,vite,tailwind,nodejs,nestjs,postgres,git,vscode&theme=dark"/>
 </a>
 
 </p>
