@@ -17,9 +17,9 @@
 
 <div align="center">  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Buchud&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Gabriel-Buchud's Top Languages">
+<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Buchud&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Gabriel-Buchud's Top Languages">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Buchud&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Gabriel-Buchud's Stats">
+<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Buchud&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Gabriel-Buchud's Stats">
 
 </div>
 
@@ -27,12 +27,15 @@
 
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
-<p><strong>Sobre mim</strong></p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Mão acenando" width="25" height="25" /> Opa! Eu sou o Gabriel, aspirante a Full Stack Developer com uma quedinha por análise de dados. Ainda tô no meio do caminho, mas a jornada tá sendo incrível! 🚀<br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Cérebro" width="25" height="25" /> Minha meta atual? Me tornar um desenvolvedor júnior full stack e continuar explorando Tudo oque a tecnologia pode oferecer. 🌍<br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Tecnólogo" width="25" height="25" /> Minha stack favorita inclui tecnologias como JavaScript, TypeScript, Node.Js e Vue, mas tô sempre aberto a aprender o que for preciso pra crescer mais! ⚡<br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Garoto" width="25" height="25" /> Eu valorizo muito o respeito e adoro trocar ideias com pessoas novas. Sempre tem algo novo (e um bom papo nunca é demais, né?). 🤝<br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Professor" width="25" height="25" /> Uma das minhas metas é chegar a pleno até 2030 e, quem sabe, até lá ensinar o que aprendi. Vai que eu viro o "Mestre Yoda" do código pra quem compartilha o mesmo sonho? 📚✨
+<h3 align="center">
+  Sobre Mim
+</h3>
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Opa! Eu sou o Gabriel, aspirante a Full Stack Developer com uma quedinha por análise de dados. Ainda tô no meio do caminho, mas a jornada tá sendo incrível! 🚀<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Minha meta atual? Me tornar um desenvolvedor júnior full stack e continuar explorando Tudo oque a tecnologia pode oferecer. 🌍<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minha stack favorita inclui tecnologias como JavaScript, TypeScript, Node.Js e Vue, mas tô sempre aberto a aprender o que for preciso pra crescer mais! ⚡<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Eu valorizo muito o respeito e adoro trocar ideias com pessoas novas. Sempre tem algo novo (e um bom papo nunca é demais, né?). 🤝<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Uma das minhas metas é chegar a pleno até 2030 e, quem sabe, até lá ensinar o que aprendi. Vai que eu viro o "Mestre Yoda" do código pra quem compartilha o mesmo sonho? 📚✨
 
 ## &nbsp;My Stack
 
