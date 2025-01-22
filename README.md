@@ -41,7 +41,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Minha meta atual? me tornar um dev pleno até 2030 e continuar explorando tudo o que a tecnologia pode oferecer.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minha stack favorita inclui JavaScript, TypeScript, Node.js e React. É aonde dedico mais tempo de estudo. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Valorizo o respeito e adoro trocar ideias com pessoas novas. Acredito que uma boa conversa pode agregar muito à vida. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Adoro aprender e passar o conhecimento adiante. Espero me tornar o "Mestre Yoda" do código para ajudar quem tem o mesmo sonho!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Adoro aprender e compartilhar conhecimento. Quem sabe, no futuro, me torno o 'Mestre Yoda' para os novos devs?
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
 <h3 align="center">
