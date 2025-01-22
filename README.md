@@ -1,7 +1,7 @@
 
-<h2 align="center">
+<h1 align="center">
   Olá Mundo!
-</h2>
+</h1>
 
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
