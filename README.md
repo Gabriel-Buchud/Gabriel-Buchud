@@ -1,11 +1,12 @@
 
-<table align="center" border="0">
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td><img src="https://media.tenor.com/_VyQRq5LBXMAAAAi/muda-vs-ora.gif" width="50"></td>
-    <td><h2>Olá Mundo!</h2></td>
-    <td><img src="https://media.tenor.com/7rVTSe8wpkkAAAAj/ora-jjba.gif" width="50"></td>
+    <td style="border: none;"><img src="https://media.tenor.com/_VyQRq5LBXMAAAAi/muda-vs-ora.gif" width="50"></td>
+    <td style="border: none;"><h2>Olá Mundo!</h2></td>
+    <td style="border: none;"><img src="https://media.tenor.com/7rVTSe8wpkkAAAAj/ora-jjba.gif" width="50"></td>
   </tr>
 </table>
+
 
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
