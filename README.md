@@ -1,7 +1,9 @@
 
-<h3 align="center">
-  Olá Mundo!
-</h3>
+<p align="center">
+  <img src="https://media.tenor.com/_VyQRq5LBXMAAAAi/muda-vs-ora.gif" width="50">
+  <h3>Olá Mundo!</h3>
+  <img src="https://media.tenor.com/7rVTSe8wpkkAAAAj/ora-jjba.gif" width="50">
+</p>
 
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
