@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://media.tenor.com/_VyQRq5LBXMAAAAi/muda-vs-ora.gif" width="50">
-  <span style="font-size: 1.5em; font-weight: bold;">Olá Mundo!</span>
+  <h3 style="display: inline;">Olá Mundo!</h3>
   <img src="https://media.tenor.com/7rVTSe8wpkkAAAAj/ora-jjba.gif" width="50">
 </p>
 
