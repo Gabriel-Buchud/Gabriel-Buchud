@@ -1,5 +1,5 @@
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td><img src="https://media.tenor.com/_VyQRq5LBXMAAAAi/muda-vs-ora.gif" width="50"></td>
     <td><h2>Olá Mundo!</h2></td>
