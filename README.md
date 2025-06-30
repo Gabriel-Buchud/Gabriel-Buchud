@@ -1,4 +1,3 @@
-
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
 <a href="https://github.com/Gabriel-Buchud/Gabriel-Buchud">
@@ -11,7 +10,7 @@
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
 <h3 align="center">
-  Full Stack Jr • Entusiasta de dados • Code Ninja
+  Full Stack Júnior • Data Enthusiast • Open Source Lover
 </h3>
 
 #
@@ -24,7 +23,6 @@
 
 </div>
 
-
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
 <h3 align="center">
@@ -33,11 +31,12 @@
 
 #
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Opa!Gabriel aqui, aspirante a Dev FullStack, com uma quedinha por análise de dados e cursando Engenharia de Software. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Minha meta atual? me tornar um dev pleno até 2030 e continuar explorando tudo o que a tecnologia pode oferecer.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Minha stack favorita inclui JavaScript, TypeScript, Node.js e React. É aonde dedico mais tempo de estudo. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Valorizo o respeito e adoro trocar ideias com pessoas novas. Acredito que uma boa conversa pode agregar muito à vida. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Adoro aprender e compartilhar conhecimento. Quem sabe, no futuro, me torno o 'Mestre Yoda' para os novos devs?
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Eu sou o Gabriel, desenvolvedor Full Stack Júnior e estudante de Engenharia de Software.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Apaixonado por dados, curioso por cloud, e sempre aprendendo novas tecnologias.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Tenho me aprofundado em JavaScript, TypeScript, Node.js, React, além de Python e serviços AWS para ampliar minhas habilidades.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Valorizo boas conversas, respeito e colaboração — acredito que aprender junto faz tudo ficar mais leve e melhor.  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> Meu objetivo é crescer para me tornar um profissional pleno nos próximos anos e, quem sabe, ajudar outros devs a encontrarem seu caminho também.  
+
 <img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
 
 <h3 align="center">
@@ -49,14 +48,15 @@
 <p align="center">
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,vite,tailwind,nodejs,nestjs,postgres,git,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,vite,tailwind,nodejs,nestjs,postgres,python,aws,git,vscode&theme=dark"/>
 </a>
 
 </p>
 
 <div align="center" style="display: flex; gap: 5px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript Badge" style="height: 15px;">
-  <img src="https://img.shields.io/badge/Learning-Full%20Stack-blue?style=flat&logo=web&logoColor=white" alt="Full Stack Badge" style="height: 15px;">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white" alt="Python Badge" style="height: 15px;">
+  <img src="https://img.shields.io/badge/Learning-AWS-orange?style=flat&logo=amazonaws&logoColor=white" alt="AWS Badge" style="height: 15px;">
   <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" style="height: 15px;">
   <img src="https://img.shields.io/badge/Version-Control-orange?style=flat&logo=git&logoColor=white" alt="Git Badge" style="height: 15px;">
   <img src="https://img.shields.io/badge/IDE-VS%20Code-blue?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code Badge" style="height: 15px;">
@@ -81,3 +81,5 @@
   </a>
 
 </div>
+
+<img src="https://i.imgur.com/bMOyhdn.png" width="100%" height="8px"/>
